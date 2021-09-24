@@ -1,4 +1,4 @@
-import request from "../request";
+import request from "../request.js";
 
 /** Makes an http request to Google to check if a google username is available.
  * You only need to pass in the username, not including "@gmail.com"
